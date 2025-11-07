@@ -30,7 +30,7 @@ morse_translator/
 
 ## 🚀 Lancer l’application
 
-aucherm.github.io/morse-code/
+- https://aucherm.github.io/morse-code/
 
 Aucune installation requise — tout tourne en HTML, CSS et JavaScript pur ✨
 
