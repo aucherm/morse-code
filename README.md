@@ -30,13 +30,7 @@ morse_translator/
 
 ## 🚀 Lancer l’application
 
-1. **Clone** le dépôt :
-   ```bash
-   git clone https://github.com/ton-utilisateur/morse_translator.git
-   
-Ouvre simplement index.html dans ton navigateur :
-open index.html
-(ou double-clique dessus)
+aucherm.github.io/morse-code/
 
 Aucune installation requise — tout tourne en HTML, CSS et JavaScript pur ✨
 
